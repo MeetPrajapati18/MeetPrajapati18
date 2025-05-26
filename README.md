@@ -59,7 +59,7 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: meet18052005@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/meet-prajapati-3748bb2a5/)  
 - 🌐 Portfolio: [yourwebsite.com](https://portfolio-murex-five-82.vercel.app/)
 
