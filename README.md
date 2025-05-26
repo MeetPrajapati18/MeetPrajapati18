@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there😜, I'm Meet Prajapati!
+# Hi there👋, I'm Meet Prajapati!
 
 ### 💻 Full-Stack Developer 
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍🦱 About Me
 
 - 💡 Passionate about startups, tech, and innovation  
 - 🧰 Tech Stack: Java, Spring Boot, React, Node.js, MongoDB, PostgreSQL,   
@@ -60,8 +60,8 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: meet18052005@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/meet-prajapati-3748bb2a5/)  
-- 🌐 Portfolio: [yourwebsite.com](https://portfolio-murex-five-82.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/myprofile](https://www.linkedin.com/in/meet-prajapati-3748bb2a5/)  
+- 🌐 Portfolio: [mywebsite.com](https://portfolio-murex-five-82.vercel.app/)
 
 ---
 
