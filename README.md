@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🙏 Hi there, I'm Meet Prajapati!
+# Hi there😜, I'm Meet Prajapati!
 
 ### 💻 Full-Stack Developer 
 
